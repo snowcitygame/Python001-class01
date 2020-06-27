@@ -7,4 +7,10 @@ Fork其他GitHub仓库
 使用git clone的目录不能已是仓库
 git clone  Clone按钮中SSH协议的仓库地址
 
+以上步骤结束后，在指定目录下会下载有GitHub仓库对应的文件
+
+文件操
+git add
+git commit -m 'xxx'
+push -u xxx master
 学习笔记
